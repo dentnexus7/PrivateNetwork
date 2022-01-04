@@ -1,0 +1,1 @@
+This repository exemplifies the creation of a private network and mining some ether using Geth through the "Ethereum Blockchain Developer Bootcamp With Solidity (2022)" Udemy course.
